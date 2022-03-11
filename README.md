@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camocodes
 - 👀 I’m interested in Data Science, Blockchain, Finance, and trading/investing automation 
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m currently working on building a Crypo trading flashbot to combat the issue of MEV Bots exploiting everyday users 
+- 🌱 I’m currently learning C++, Solidity, Python, JavaScript 
+- 💞️ I’m currently working on becoming a blockchain developer  
 - 📫 Contact me: clm2930@comcast.net
 
 <!---
