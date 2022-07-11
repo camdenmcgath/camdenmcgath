@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @camocodes
-- 👀 I’m interested in Data Science, Blockchain, Finance, and trading/investing automation 
-- 🌱 I’m currently learning C++, Python, and Blockchain development 
-- 💞️ I’m currently working on becoming a blockchain developer  
-- 📫 Contact me: clm2930@comcast.net
+- 👋 Hi, I’m @camdenmcgath
+- 👀 I’m mainly interested in Machine Learning, A.I., and general Data Science and its applications in quantitative finance.
+- 🌱 I’m currently studying Mathematics and Computer Science concentrating on Data Science
+- 💞️ I’m currently working on contributing to the OpenBB and MARSHA codebases
+- 📫 Contact me: clm2930@comcast.net or cmcgath@nnu.edu
 
 <!---
-camocodes/camocodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+camoenmcgath/camocodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
