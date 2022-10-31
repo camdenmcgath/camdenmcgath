@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @camdenmcgath
-- 👀 I’m mainly interested in Machine Learning, A.I., and general Data Science and its applications in quantitative finance.
+- 👀 I’m interested in AI/ML, computational and quantitative finance, and explorations in pure math and computational theory and optimization
 - 🌱 I’m currently studying Mathematics and Computer Science concentrating on Data Science
-- 💞️ I’m currently working on contributing to the OpenBB and MARSHA codebases
-- 📫 Contact me: clm2930@comcast.net or cmcgath@nnu.edu
+- 💞️ I’m currently working on the Data Analysis with Python certification and my B.S in Mathematics and B.S. in C.S.: Data Science
+- 📫 Contact me: cmcgath@nnu.edu
 
 <!---
 camoenmcgath/camocodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
