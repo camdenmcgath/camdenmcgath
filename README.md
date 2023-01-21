@@ -6,7 +6,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
 </div>
-
+- 👋 Hello! I'm Camden McGath
 - 👀 I’m interested in AI/ML, computational and quantitative finance, and explorations in pure math and computational theory and optimization
 - 🌱 I’m currently studying Mathematics and Computer Science concentrating in Data Science
 - 📫 Contact me: cmcgath@nnu.edu
