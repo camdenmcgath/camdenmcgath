@@ -1,9 +1,11 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/camden-mcgath-885520211/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt"LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/camden-mcgath-885520211/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt"LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue"/>
 
 - 👀 I’m interested in AI/ML, computational and quantitative finance, and explorations in pure math and computational theory and optimization
 - 🌱 I’m currently studying Mathematics and Computer Science concentrating in Data Science
