@@ -8,7 +8,7 @@
 </div>
 
 - 👋 Hello! I'm Camden McGath
-- 👀 I’m interested in AI/ML, computational and quantitative finance, and explorations in pure math and computational theory and optimization
+- 👀 I’m interested in all things AI/ML, software development, programming languages, quantitative finance, and explorations in pure math!
 - 🌱 I’m currently studying Mathematics and Computer Science concentrating in Data Science
 - 📫 Contact me: cmcgath@nnu.edu
 
