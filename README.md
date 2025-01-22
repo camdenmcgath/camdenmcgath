@@ -8,9 +8,9 @@
 </div>
 
 - 👋 Hello! I'm Camden McGath
-- 👀 I’m interested in all things AI/ML, software development, programming languages, quantitative finance, and explorations in pure math!
-- 🌱 I’m currently studying Mathematics and Computer Science concentrating in Data Science
-- 📫 Contact me: cmcgath@nnu.edu
+- 👀 I’m interested in all things software engineering, specifically: back-end web development, algorithms and data structure design, and cool open source developer tools like NeoVim!
+- 🌱 I’m currently a Software Engineering Intern at Schweitzer Engineering Laboratories where I am involved in backend web service development in Go!
+- 📫 Contact me: camdenlmcgath@gmail.com, I'm always looking for a neat new open-source project to help contribute to!
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdenmcgath&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)>
 -----
